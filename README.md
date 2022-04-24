@@ -17,7 +17,8 @@ And you can pick and navigate Through them With buttons That help you sort your 
 
 
 
-# prerequisitesm :
+# prerequisites
+:
 You will Need any Browser
 
 You need to install Nodejs [NodeJs ](https://nodejs.org/en/download/)
